@@ -173,7 +173,7 @@ const Login = () => {
                   onClick={() => handleRoleLogin('restaurant')}
                   disabled={isLoading}
                 >
-                  Ingresar como cliente
+                  Ingresar como restaurant
                 </Button>
                 <Button
                   type="button"
